@@ -12,7 +12,7 @@
             <block class="Mwltr\BackendWidgetApplicationMode\Block\Admin\ApplicationMode"
                    name="application_mode" as="application_mode"
                    template="application_mode.phtml"
-                   before="version">
+                   before="-">
             </block>
         </referenceContainer>
     </body>
